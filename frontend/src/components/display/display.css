@@ -1,0 +1,18 @@
+.display{
+    display: flex;
+    border: 2px solid #B0E0E6	;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    background-color: #E0FFFF;
+}
+.display span{
+    background-color: #E0FFFF;
+    color:#5F9EA0;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 10px;
+    border-right: 1px solid #B0E0E6;
+}
